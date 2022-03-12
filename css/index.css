@@ -1,8 +1,9 @@
 body{
     margin: 0;
+    line-height: 1.6;
     background: rgb(154, 126, 207);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100em
 }
-div.b {
-    line-height: 1.6;
-  }
