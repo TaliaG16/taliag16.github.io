@@ -3,3 +3,6 @@ body{
     background: rgb(158, 158, 238);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+div.b {
+    line-height: 1.6;
+  }
