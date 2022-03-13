@@ -1,10 +1,9 @@
 body{
-    margin: 0;
+    margin: 10%;
     line-height: 1.6;
     background: rgb(217, 206, 238);
     color:rgb(63, 122, 231);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    margin-left: 10%;
     margin-right: auto;
     width: 70em
 }
@@ -19,8 +18,8 @@ body{
     top: 0;
 }
 .blood{
-    width: 100px;
-    height: 50px;
+    width: 150px;
+    height:100px;
 }
 .cute{
     width: 50px;
