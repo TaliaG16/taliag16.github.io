@@ -8,7 +8,29 @@ body{
     margin-right: auto;
     width: 70em
 }
-cute{
+.topnav {
+    background-color: #bcadff;
+    border-bottom-color: #d9d9d9;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1em;
+    height: 4em;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.cute{
+    width: 200px;
+    height: 121px;
+}
+.code{
+    width: 200px;
+    height: 121px;
+}
+.extra{
+    width: 200px;
+    height: 121px;
+}
+.work{
     width: 200px;
     height: 121px;
 }
