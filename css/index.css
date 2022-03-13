@@ -9,11 +9,12 @@ body{
     width: 70em
 }
 .topnav {
-    background-color: #bcadff;
-    border-bottom-color: #d9d9d9;
+    background-color: rgb(63, 122, 231);
+    border-bottom-color: rgb(63, 122, 231);
     border-bottom-style: solid;
     border-bottom-width: 0.1em;
     height: 4em;
+    margin-left: 0;
     position: fixed;
     width: 100%;
     top: 0;
@@ -27,14 +28,14 @@ body{
     height: 121px;
 }
 .extra{
-    width: 200px;
-    height: 121px;
+    width: 400px;
+    height: 321px;
 }
 .work{
-    width: 200px;
-    height: 121px;
+    width: 300px;
+    height: 221px;
 }
 hr{
-    color:rgb(255, 255, 255);
+    color:rgb(63, 122, 231);
     margin: 0%;
 }
