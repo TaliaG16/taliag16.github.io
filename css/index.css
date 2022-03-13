@@ -19,8 +19,8 @@ body{
     top: 0;
 }
 .cute{
-    width: 200px;
-    height: 121px;
+    width: 50px;
+    height: 50px;
 }
 .code{
     width: 200px;
@@ -33,4 +33,8 @@ body{
 .work{
     width: 200px;
     height: 121px;
+}
+hr{
+    color:rgb(255, 255, 255);
+    margin: 0%;
 }
