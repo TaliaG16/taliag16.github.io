@@ -16,6 +16,7 @@ body{
     position: fixed;
     width: 100%;
     top: 0;
+    margin-right: 0;
 }
 .blood{
     width: 150px;
@@ -40,5 +41,4 @@ body{
 hr{
     background:rgb(63, 122, 231);
     margin: 0%;
-    margin-right: 0;
 }
