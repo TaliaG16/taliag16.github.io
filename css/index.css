@@ -24,7 +24,7 @@ body{
     height:100px;
 }
 .image-container {
-    background-image: url("img_nature.jpg"); 
+    background-image: url("https://th.bing.com/th/id/OIP.zmVIss_A8cN22Q0mMbbqrAHaDF?w=298&h=145&c=7&r=0&o=5&pid=1.7"); 
     background-size: cover;
     position: relative; 
     height: 300px; 
