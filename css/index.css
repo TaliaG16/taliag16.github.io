@@ -28,14 +28,17 @@ body{
     height: 50px;
 }
 .code{
+    outline: inset thick;
     width: 200px;
     height: 121px;
 }
 .extra{
+    outline: inset thick;
     width: 400px;
     height: 321px;
 }
 .work{
+    outline: inset thick;
     width: 300px;
     height: 221px;
 }
