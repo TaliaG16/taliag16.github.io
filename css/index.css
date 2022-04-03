@@ -24,7 +24,7 @@ body{
     height:100px;
 }
 .image-container {
-    background-image: "R.jpg"; 
+    background-image: url("img_nature.jpg"); 
     background-size: cover;
     position: relative; 
     height: 300px; 
