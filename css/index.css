@@ -19,6 +19,7 @@ body{
     margin-right: 0;
 }
 .blood{
+    outline: inset thick;
     width: 150px;
     height:100px;
 }
