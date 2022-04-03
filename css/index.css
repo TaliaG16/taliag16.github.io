@@ -25,11 +25,13 @@ body{
 }
 card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background: rgb(217, 206, 238);
     transition: 0.3s;
     border-radius: 5px;
   }
 .container {
-    padding: 20px 160px;
+    padding: 2px 16px;
+    background: rgb(217, 206, 238);
 }
 .cute{
     transform: rotate(0.1turn);
