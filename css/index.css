@@ -18,6 +18,9 @@ body{
     top: 0;
     margin-right: 0;
 }
+hyperlink-nav:hover {
+    background-color: rgb(163, 84, 236);
+}
 .blood{
     outline: inset thick;
     width: 150px;
