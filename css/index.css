@@ -35,6 +35,7 @@ a:hover {
     height:100px;
 }
 .image-container {
+    margin-right: 0;
     background-image: url("https://elements-video-cover-images-0.imgix.net/files/245915459/preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=162eac6eefa6a16a4428428434b0be11"); 
     background-size: 100% auto;
     position: relative;
