@@ -28,7 +28,7 @@ body{
     background-size: cover;
     position: relative; 
     height: 300px;
-    width: 1500px;
+    margin-right: 0;
   }
   
   .text {
