@@ -37,8 +37,9 @@ hyperlink-nav:hover {
 .image-container {
     background-image: url("https://th.bing.com/th/id/OIP.zmVIss_A8cN22Q0mMbbqrAHaDF?w=298&h=145&c=7&r=0&o=5&pid=1.7"); 
     background-size: 100% auto;
+    position: relative;
     height: 350px;
-    margin: 10px;
+    margin: 100px;
   }
   
   .text {
@@ -51,7 +52,7 @@ hyperlink-nav:hover {
     width: 50%;
     text-align: center; 
     position: absolute; 
-    top: 50%; 
+    top: 25%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
     mix-blend-mode: screen; 
