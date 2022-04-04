@@ -25,7 +25,7 @@ body{
 }
 .image-container {
     background-image: url("https://th.bing.com/th/id/OIP.zmVIss_A8cN22Q0mMbbqrAHaDF?w=298&h=145&c=7&r=0&o=5&pid=1.7"); 
-    background-size: cover;
+    background-size: 100% auto;
     position: relative; 
     height: 300px;
     margin: 0%;
