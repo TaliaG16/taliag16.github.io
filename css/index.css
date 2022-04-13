@@ -14,6 +14,9 @@ body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     width: 70em
 }
+a:hover {
+    color: rgb(240, 36, 80);
+  }
 .top {
     background-color: rgb(255, 93, 144);
     border-bottom-color: rgb(255, 93, 144);
