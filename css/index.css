@@ -50,6 +50,7 @@ a:hover {
     mix-blend-mode: screen; 
   }
   .toptext {
+    font-family: "MS UI Gothic", "UI Gothic", cursive;
     font-size: 2vw; 
     color: rgb(250, 199, 178);
     padding: 0 20px;
