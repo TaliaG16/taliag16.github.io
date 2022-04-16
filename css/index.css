@@ -37,6 +37,8 @@ a:hover {
 }
 .w3-image{
     text-align: center; 
+    display: block;
+    margin: 0 auto;
   }
   
   .text {
@@ -50,6 +52,8 @@ a:hover {
     position: absolute; 
     top: -100%;
     mix-blend-mode: screen; 
+    display: block;
+    margin: 0 auto;
   }
   .toptext {
     font-size: 2vw; 
