@@ -18,15 +18,17 @@ a:hover {
     color: rgb(240, 36, 80);
   }
 .top {
+    font-size: 40px;
     background-color: rgb(255, 93, 144);
     border-bottom-color: rgb(255, 93, 144);
     border-bottom-style: solid;
-    height: 4em;
-    margin-left: 0;
+    height: 1.3em;
+    letter-spacing: 2px;
     position: fixed;
     width: 100%;
     top: 0;
     margin-right: 0;
+    margin: 0%;
 }
 .blood{
     outline: inset thick;
