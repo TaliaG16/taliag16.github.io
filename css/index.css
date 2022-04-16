@@ -1,10 +1,23 @@
+.top {
+  font-size: 40px;
+  background-color: rgb(255, 93, 144);
+  border-bottom-color: rgb(255, 93, 144);
+  border-bottom-style: solid;
+  height: 1.3em;
+  letter-spacing: 2px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  margin-right: 0;
+  margin: 0%;
+}
 p{
     line-height: 1.6;
     font-size: 1vw;
     color:rgb(41, 42, 60);
     font-family: "MS UI Gothic", "UI Gothic", cursive;
     margin-right: auto;
-    width: 70em
+    width: 70em;
 }
 body{
     line-height: 1.6;
@@ -12,24 +25,11 @@ body{
     background: rgb(220, 242, 195);
     color:rgb(90, 178, 179);
     font-family: "MS UI Gothic", "UI Gothic", cursive;
-    width: 70em
+    width: 70em;
 }
 a:hover {
     color: rgb(240, 36, 80);
   }
-.top {
-    font-size: 40px;
-    background-color: rgb(255, 93, 144);
-    border-bottom-color: rgb(255, 93, 144);
-    border-bottom-style: solid;
-    height: 1.3em;
-    letter-spacing: 2px;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    margin-right: 0;
-    margin: 0%;
-}
 .blood{
     outline: inset thick;
     width: 150px;
@@ -44,7 +44,6 @@ a:hover {
     font-size: 5vw;
     font-family: "MS UI Gothic", "UI Gothic", cursive;
     font-weight: bold;
-    padding: 10px;
     width: 50%;
     text-align: center; 
     position: absolute; 
