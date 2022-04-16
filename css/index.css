@@ -68,6 +68,9 @@ a:hover {
   }
   .toptext {
     color: rgb(250, 199, 178);
+    padding: 0 20px;
+    float: left;
+    text-decoration: none;
   }
 .card {
     width: 30%;
