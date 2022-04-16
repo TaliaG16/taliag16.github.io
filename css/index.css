@@ -1,5 +1,4 @@
 p{
-    margin: 0 auto;
     line-height: 1.6;
     font-size: 1vw;
     color:rgb(41, 42, 60);
@@ -8,7 +7,6 @@ p{
     width: 70em
 }
 body{
-    margin: 0 auto;
     line-height: 1.6;
     font-size: 1vw;
     background: rgb(220, 242, 195);
@@ -59,7 +57,7 @@ a:hover {
     font-size: 2vw; 
     font-family: "MS UI Gothic", "UI Gothic", cursive;
     color: rgb(250, 199, 178);
-    padding: 0 40px;
+    padding: 0 30px;
     float: left;
     text-decoration: none;
   }
@@ -94,4 +92,8 @@ a:hover {
 hr{
     background:rgb(90, 178, 179);
     margin: 0%;
+}
+.mainBody{
+  padding-left: 20px;
+  padding-top: 20px;
 }
