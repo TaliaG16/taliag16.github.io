@@ -7,7 +7,6 @@ p{
     width: 70em
 }
 body{
-    margin: 0%;
     line-height: 1.6;
     font-size: 1vw;
     background: rgb(220, 242, 195);
@@ -23,7 +22,7 @@ a:hover {
     border-bottom-color: rgb(255, 93, 144);
     border-bottom-style: solid;
     height: 4em;
-    margin: 0%;
+    margin-left: 0;
     position: fixed;
     width: 100%;
     top: 0;
