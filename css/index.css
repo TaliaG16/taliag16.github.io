@@ -54,7 +54,6 @@ a:hover {
     position: absolute; 
     top: 50%; 
     left: 50%; 
-    transform: translate(-50%, -50%); 
     mix-blend-mode: screen; 
   }
 .button {
@@ -67,6 +66,7 @@ a:hover {
     font-size: 16px;
   }
   .toptext {
+    font-size: 20vw; 
     color: rgb(250, 199, 178);
     padding: 0 20px;
     float: left;
