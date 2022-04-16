@@ -55,7 +55,7 @@ a:hover {
     mix-blend-mode: screen; 
   }
   .toptext {
-    font-size: .5vw; 
+    font-size: 2vw; 
     color: rgb(250, 199, 178);
     padding: 0 20px;
     float: left;
