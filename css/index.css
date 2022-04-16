@@ -54,15 +54,6 @@ a:hover {
     transform: translate(-50%, -150%);
     mix-blend-mode: screen; 
   }
-.button {
-    border: none;
-    color: rgb(107, 16, 224);
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-  }
   .toptext {
     font-size: .5vw; 
     color: rgb(250, 199, 178);
